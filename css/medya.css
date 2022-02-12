@@ -1,0 +1,56 @@
+/* @media (max-width:1024) and (min-width:768px ) {
+
+    .container{
+        width: 768px;
+    }
+    .navbar{
+        padding: 1rem;
+        background: linear-gradient(rgba(0,0,0.4),rgba(0,0,0.4));
+    }
+    .navigeton{
+        display: flex;
+        justify-content: space-between;
+        width: 768px;
+    }
+    .logo h2{
+        color: #fff;
+        font-size: 30px;
+        letter-spacing: 30px;
+        text-transform: uppercase;
+    }
+    ul, li,a{
+        display: flex;
+        color: #fff;
+        text-transform: uppercase;
+        text-decoration: none;
+        letter-spacing: 5px;
+        font-size: 20px;
+        padding: 2px 10px;
+    }
+    /* End of navbar */
+    /* start of banner */
+    .banner{
+        height: 91vh;
+        background-image: url(../img/sa-min.jpg);
+        background-position: center;
+        background-repeat: no-repeat;
+        background-size: cover;
+        background-attachment: fixed;
+    }
+    .banner-title{
+        text-align: center;
+        padding: 0px 0;
+        font-size: 100px;
+        color: rgba(174, 0, 255, 0.815);
+    }
+    .banner-title span{
+        color: rgb(0, 81, 255);
+        font-size: 100px;
+    }
+    .banner-title p{
+        font-size: 25px;
+        padding: 20px;
+        color: #000;
+    }
+    
+} */
